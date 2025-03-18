@@ -83,21 +83,7 @@ npm run build
 # Deploy to GitHub Pages (or other hosting platforms)
 ```
 
-## License
-This project is licensed under the MIT License.
-
-## Author
-- **Your Name**
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-
-## Contributions
-Contributions are welcome! Feel free to open issues and pull requests.
-
 ## Acknowledgments
 - CCBP for project guidelines
 - React Community for support
-
----
-Happy Coding! 🚀
 
