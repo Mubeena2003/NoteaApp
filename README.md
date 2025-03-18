@@ -24,7 +24,7 @@ Make sure you have the following installed on your system:
 ### Installation Steps
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/notes-app.git
+git clone https://github.com/Mubeena2003/notes-app.git
 
 # Navigate to the project directory
 cd notes-app
